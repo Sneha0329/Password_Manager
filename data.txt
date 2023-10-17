@@ -1,0 +1,6 @@
+amazon | sneha@gmail.com | password
+apple | sneha@gmail.com | applebanana
+ | sneha@gmail.com | 
+ | sneha@gmail.com | 
+sneha | sneha@gmail.com | sde
+microsoft | sneha@gmail.com | )F60&#Z8U5zZg$QF
